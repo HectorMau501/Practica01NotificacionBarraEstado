@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Practica01NotificacionBarraEstado</string>
+
+    <!--    Login-->
+    <string name="clinica">Clinica 53</string>
+    <string name="correo">Correo Electronico</string>
+    <string name="contraseña">Contraseña</string>
+    <string name="ingresar">Ingresar</string>
+    <string name="salir">Salir</string>
+
+    <string name="servicios_ofrecidos">
+    Consultas médicas: Exámenes de salud de rutina, diagnóstico y tratamiento de enfermedades comunes, prescripción de medicamentos, consejos de salud preventiva, etc.
+    \n\n
+    Atención de urgencias: Tratamiento de lesiones menores, dolencias repentinas, accidentes leves, etc.
+    \n\n
+    Vacunación: Administración de vacunas para la prevención de enfermedades infecciosas, como la gripe, el sarampión, la hepatitis, etc.
+    \n\n
+    Cuidado pediátrico: Atención médica especializada para bebés, niños y adolescentes, incluyendo exámenes de desarrollo, vacunación, tratamiento de enfermedades pediátricas, etc.
+    \n\n
+    Cuidado de la mujer: Exámenes ginecológicos de rutina, pruebas de Papanicolaou, control prenatal, atención obstétrica, planificación familiar, etc.
+</string>
+♥</resources>
